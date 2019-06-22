@@ -1,0 +1,17 @@
+header {
+    background-color:tan;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+section {
+    display: flex;
+    justify-content: space-between;
+}
+article {
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+}
